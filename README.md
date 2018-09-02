@@ -4,7 +4,7 @@ date: 2018-09-01 21:26
 ---
 # 十八年华·优秀育儿作者团 招募
 
-![](./_image/WechatIMG840.jpeg)
+![](./_image/WechatIMG2959.jpeg)
 
 亲爱的宝爸宝妈们，你们好：
 
