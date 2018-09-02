@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: README.MD
 date: 2018-09-01 21:26
@@ -8,6 +9,15 @@ date: 2018-09-01 21:26
 
 亲爱的宝爸宝妈们，你们好：
 
+=======
+# Articles
+育儿文章优选
+
+
+# 十八年华·优秀育儿作者团 招募
+
+亲爱的宝爸宝妈们，你们好：
+>>>>>>> fabced164739f9d92ed5b130f7b5b5ef4bfa9058
 首先，要表明我的意图：招募一批优秀的育儿作者，将来共同打造一个围绕“十八年育儿之路”的圈子、团体或者组织。
 
 接下来听我详述，为什么要这么做，以及具体我们将要如何做。
@@ -22,6 +32,7 @@ date: 2018-09-01 21:26
 
 写作、育儿结合起来，将是你在这个时代得到的最大馈赠。
 
+<<<<<<< HEAD
 **目前我自己的尝试有《以娃养娃》系列：**
 - 《以娃养娃》https://cn.primas.io/article/PAD4TAYE5HVUG7BSWJEY3K4GM7NODJ0OAEKGXSTCE5KPO5Y5H?group_share=3H6BI4AGAMHLQC8IYZLKITA92A1EUTT39LLDT2XUTXCGBBWPU6
 - 《[育儿就是父母在自导自演一场“攻坚战”](https://cn.primas.io/article/1ISHJHBLCK6IIILX74KJ9GBN3Y89BIVF46HIX60ES7ABN1O15W?group_share=3H6BI4AGAMHLQC8IYZLKITA92A1EUTT39LLDT2XUTXCGBBWPU6)》
@@ -42,10 +53,33 @@ date: 2018-09-01 21:26
 如果你也是一个宝妈（宝爸），或者即将成为宝妈（宝爸），如果你也热爱创作，听说读写都可以，如果你也想为孩子留下他们成长路上的宝贵财富，欢迎加入[【十八年华·优秀育儿作者团】](http://cn.mikecrm.com/7m881JB)。
 
 加入方式：[填写表单](http://cn.mikecrm.com/7m881JB)，并提交作品后，等待我们团队审核即可。
+=======
+目前我自己的尝试有《以娃养娃》系列：
+- 《以娃养娃》https://cn.primas.io/article/PAD4TAYE5HVUG7BSWJEY3K4GM7NODJ0OAEKGXSTCE5KPO5Y5H?group_share=3H6BI4AGAMHLQC8IYZLKITA92A1EUTT39LLDT2XUTXCGBBWPU6
+- 《育儿就是父母在自导自演一场“攻坚战”》https://cn.primas.io/article/1ISHJHBLCK6IIILX74KJ9GBN3Y89BIVF46HIX60ES7ABN1O15W?group_share=3H6BI4AGAMHLQC8IYZLKITA92A1EUTT39LLDT2XUTXCGBBWPU6
+
+冰加雪糕（一个90后的辣妈）的尝试：
+- 《写在八月末，来Primas两个月了》https://cn.primas.io/article/3TW0HC4LBWYP4PXGIQUKNOKOTGAG4266QWA5G0U68TMTYHCIB1?group_share=2OTY55MLTKL0NKQF6NEL6EVJVYWX41L5BHS2PLJQ4PGQ7BM8RD
+豆爸（一个风趣无比的奶爸）的尝试：
+- 《一部连载18年的育儿作品|第26篇]豆豆生病记》https://cn.primas.io/article/4KB51QMV3TIIROBGWFH4XDQ1T2SE5CXH03QUZTBVBCW6MJRKY6?group_share=2OTY55MLTKL0NKQF6NEL6EVJVYWX41L5BHS2PLJQ4PGQ7BM8RD
+思源（小鱼宝妈）的尝试：
+- 《我有两颗牙齿和一个妈妈》https://cn.primas.io/article/453VI8AEXHCC9QH61OISVVLK3UPDG6Y2CC15M14ARGAJ1XX6GB?group_share=null
+
+这些优秀的小伙伴在用文字诠释着他们对于下一代的爱与付出，同时也在茁壮的自我成长。
+
+如果你也是一个宝妈（宝爸），或者即将成为宝妈（宝爸），如果你也热爱创作，听说读写都可以，如果你也想为孩子留下他们成长路上的宝贵财富，欢迎加入【十八年华·优秀育儿作者团】。
+
+加入方式：填写表单，并提交作品后，等待我们团队审核即可。
+http://cn.mikecrm.com/7m881JB
+>>>>>>> fabced164739f9d92ed5b130f7b5b5ef4bfa9058
 
 *我是大树，专注于区块链写作与投资，以娃养娃计划践行者*
 更多沟通和交流渠道，请加大树个人微信ljc8903，或者关注微信公众号号：大树的第一个七年。
 
 期待您的加入！
 
+<<<<<<< HEAD
 2018年9月1日
+=======
+2018年9月1日
+>>>>>>> fabced164739f9d92ed5b130f7b5b5ef4bfa9058
