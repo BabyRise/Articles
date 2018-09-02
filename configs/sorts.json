@@ -1,0 +1,14 @@
+{
+    "": [
+        "the first test.md", 
+        "readme.txt"
+    ], 
+    "__positions": {
+        "the first test.md": 1, 
+        "readme.txt": 2
+    }, 
+    "__raw_positions": {
+        "the first test.md": 1, 
+        "readme.txt": 2
+    }
+}
